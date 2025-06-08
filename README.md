@@ -1,6 +1,15 @@
 # Projeto-Software-Product-BI
 
 ## Sobre
+Esse é um projeto em Power BI onde foi feita uma Análise Descritiva sobre dados de Vendas de Lojas.
+
+## Dados
+Arquivos csv fictícios.
+
+![Dashboard de Vendas](https://github.com/user-attachments/assets/5d15bba6-1aee-45a2-a023-11ce2f6a46fa)
+
+
+## Sobre
 Esse é um projeto em Power BI onde foi feita uma Análise Descritiva sobre dados de diabetes.
 
 ## Dados
@@ -12,7 +21,7 @@ Esse é um projeto em Power BI onde foi feita uma Análise Descritiva sobre dado
 
 
 ## Sobre
-Esse é um projeto em Power BI onde foi feita uma Análise Descritiva sobre dados de diabetes.
+Esse é um projeto em Power BI onde foi feita uma Análise Descritiva sobre dados de Vendas.
 
 ## Dados
 Retirado do exemplo de dados do próprio Power BI.
